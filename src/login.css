@@ -1,0 +1,46 @@
+#email-title {
+    margin-top: 80px;
+}
+
+#pass-title {
+    margin-top: 30px;
+}
+
+#email {
+    margin-top: 10px;
+}
+
+#password {
+    margin-top: 10px;
+}
+
+#et {
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#pt {
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#email {
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+#password {
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+#btn1, #btn2 {
+    font-family: 'Yusei Magic', sans-serif;
+    background-color: #E6E6FA;
+    border: none;
+    cursor: pointer;
+}
+
+body {
+    background-color: #8FBC8F;
+}
