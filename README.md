@@ -29,4 +29,4 @@ The app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-![Alt text](/relative/path/to/usersystem-mobile-screenshot.png?raw=true "Optional Title")
+![alt text](https://github.com/[faraazmohsin]/[usersystem]/blob/[branch]/usersystem-mobile-screenshot.png?raw=true)
